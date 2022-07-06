@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color 	name="colorPrimary">#FFFFFF</color>
+	<color 	name="colorPrimaryDark">#FFFFFF</color>
+	<color 	name="colorAccent">#0084C2</color>
+	<color 	name="colorControlHighlight">#AAAAAA</color>
+	<color 	name="colorControlNormal">#0084C2</color>
+	<color 	name="colorNavigationBar">#F5F5F5</color>
+	
+	<color 	name="dark_colorPrimary">#424242</color>
+	<color 	name="dark_colorPrimaryDark">#424242</color>
+	<color 	name="dark_colorAccent">#0084C2</color>
+	<color 	name="dark_colorControlHighlight">#AAAAAA</color>
+	<color 	name="dark_colorControlNormal">#0084C2</color>
+	<color 	name="dark_colorNavigationBar">#424242</color>
+	
+	<color 	name="default_colorPrimary">#009688</color>
+	<color 	name="default_colorPrimaryDark">#009688</color>
+	<color 	name="default_colorAccent">#0084C2</color>
+	<color 	name="default_colorControlHighlight">#AAAAAA</color>
+	<color 	name="default_colorControlNormal">#0084C2</color>
+	<color 	name="default_colorNavigationBar">#009688</color>
+	
+</resources>
